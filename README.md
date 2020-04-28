@@ -6,3 +6,5 @@ in order to use the some queries not all of them
 
 We made four user types:
   Customer, Admin, Vendor and Delivery Person
+
+It was a grouped project of team of 3 and I took all the backend part including the EERD and the schema
